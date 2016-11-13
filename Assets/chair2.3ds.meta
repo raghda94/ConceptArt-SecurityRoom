@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 3855f274bd55d443e844f48517a2d451
+timeCreated: 1478993857
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ArmchairA0
+    100002: ArmchairAr
+    100004: ArmchairB0
+    100006: ArmchairB1
+    100008: ArmchairBa
+    100010: ArmchairL0
+    100012: ArmchairL1
+    100014: ArmchairL2
+    100016: ArmchairLe
+    100018: ArmchairS0
+    100020: ArmchairSe
+    100022: ArmchairSi
+    100024: ArmshairS0
+    100026: ArmshairSi
+    100028: //RootNode
+    400000: ArmchairA0
+    400002: ArmchairAr
+    400004: ArmchairB0
+    400006: ArmchairB1
+    400008: ArmchairBa
+    400010: ArmchairL0
+    400012: ArmchairL1
+    400014: ArmchairL2
+    400016: ArmchairLe
+    400018: ArmchairS0
+    400020: ArmchairSe
+    400022: ArmchairSi
+    400024: ArmshairS0
+    400026: ArmshairSi
+    400028: //RootNode
+    2300000: ArmchairA0
+    2300002: ArmchairAr
+    2300004: ArmchairB0
+    2300006: ArmchairB1
+    2300008: ArmchairBa
+    2300010: ArmchairL0
+    2300012: ArmchairL1
+    2300014: ArmchairL2
+    2300016: ArmchairLe
+    2300018: ArmchairS0
+    2300020: ArmchairSe
+    2300022: ArmchairSi
+    2300024: ArmshairS0
+    2300026: ArmshairSi
+    3300000: ArmchairA0
+    3300002: ArmchairAr
+    3300004: ArmchairB0
+    3300006: ArmchairB1
+    3300008: ArmchairBa
+    3300010: ArmchairL0
+    3300012: ArmchairL1
+    3300014: ArmchairL2
+    3300016: ArmchairLe
+    3300018: ArmchairS0
+    3300020: ArmchairSe
+    3300022: ArmchairSi
+    3300024: ArmshairS0
+    3300026: ArmshairSi
+    4300000: ArmchairBa
+    4300002: ArmchairSi
+    4300004: ArmchairSe
+    4300006: ArmshairSi
+    4300008: ArmshairS0
+    4300010: ArmchairAr
+    4300012: ArmchairA0
+    4300014: ArmchairB0
+    4300016: ArmchairLe
+    4300018: ArmchairB1
+    4300020: ArmchairL0
+    4300022: ArmchairL1
+    4300024: ArmchairL2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

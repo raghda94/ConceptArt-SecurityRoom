@@ -1,0 +1,19 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\613eeb70465f94c975dd3aa60fde4fb-cc5d7b72bed7c2c2>cd D:\uploadedFiles\116d33cb191579c67ddb3f2e6e59bb-6023d46abf3f33cd\ 
+
+D:\uploadedFiles\116d33cb191579c67ddb3f2e6e59bb-6023d46abf3f33cd>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\116d33cb191579c67ddb3f2e6e59bb-6023d46abf3f33cd\p1b1cufbmsqki1a2c1j3egi3if44.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b1cufbmsqki1a2c1j3egi3if44.rar
+
+  extracting: wooden window.fbx                                   OK
+
+D:\uploadedFiles\116d33cb191579c67ddb3f2e6e59bb-6023d46abf3f33cd>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\116d33cb191579c67ddb3f2e6e59bb-6023d46abf3f33cd\p1b1cufbmsqki1a2c1j3egi3if44.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://ww

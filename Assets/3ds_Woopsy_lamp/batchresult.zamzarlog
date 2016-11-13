@@ -1,0 +1,19 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\3d68d867b88827ac39154e256580ba3f-ccf350f513704122>cd D:\uploadedFiles\d0d1559d576c9c29b47e989f5f199813-dd27482c1b4078fb\ 
+
+D:\uploadedFiles\d0d1559d576c9c29b47e989f5f199813-dd27482c1b4078fb>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\d0d1559d576c9c29b47e989f5f199813-dd27482c1b4078fb\p1b1etdhga137j2q01h8p1tf3fr44.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b1etdhga137j2q01h8p1tf3fr44.rar
+
+  extracting: Woopsy_lamp.3ds                                     OK
+
+D:\uploadedFiles\d0d1559d576c9c29b47e989f5f199813-dd27482c1b4078fb>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\d0d1559d576c9c29b47e989f5f199813-dd27482c1b4078fb\p1b1etdhga137j2q01h8p1tf3fr44.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://ww

@@ -1,0 +1,22 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\77f0793250bb4c2fd0e3ac705c50d672-fe7e91ddaa973b22>cd D:\uploadedFiles\8f2fa8c0418e468d8b86128758f62d1-335d461d776def74\ 
+
+D:\uploadedFiles\8f2fa8c0418e468d8b86128758f62d1-335d461d776def74>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\8f2fa8c0418e468d8b86128758f62d1-335d461d776def74\p1b1d0n59a12s17ir1n328duko4.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b1d0n59a12s17ir1n328duko4.rar
+
+  extracting: table-render.png                                    OK
+  extracting: table.fbx                                           OK
+  extracting: table.png                                           OK
+  extracting: Untitled.002.png                                    OK
+
+D:\uploadedFiles\8f2fa8c0418e468d8b86128758f62d1-335d461d776def74>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\8f2fa8c0418e468d8b86128758f62d1-335d461d776def74\p1b1d0n59a12s17ir1n328duko4.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://ww

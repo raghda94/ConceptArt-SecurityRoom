@@ -1,0 +1,1333 @@
+fileFormatVersion: 2
+guid: 781b4c9e508d14f09a4607b8ed67d044
+timeCreated: 1479043421
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: '[Round]_00'
+    100004: '[Round]_01'
+    100006: '[Round]_02'
+    100008: '[Round]_03'
+    100010: '[Round]_04'
+    100012: '[Round]_05'
+    100014: '[Round]_06'
+    100016: '[Round]_07'
+    100018: '[Round]_08'
+    100020: Group_001
+    100022: Group_002
+    100024: Group_003
+    100026: Group_005
+    100028: Group_006
+    100030: Group_007
+    100032: Group_008
+    100034: Group_009
+    100036: Group_010
+    100038: Group_011
+    100040: Group_012
+    100042: Group_013
+    100044: Group_014
+    100046: Group_015
+    100048: Group_017
+    100050: Group_018
+    100052: Group_019
+    100054: Group_020
+    100056: Group_021
+    100058: Group_022
+    100060: Group_023
+    100062: Group_024
+    100064: Group_025
+    100066: Group_026
+    100068: Group_027
+    100070: Group_028
+    100072: Group_029
+    100074: Group_030
+    100076: Group_031
+    100078: Group_032
+    100080: Group_033
+    100082: Group_034
+    100084: Group_035
+    100086: Group_037
+    100088: Group_038
+    100090: Group_039
+    100092: Group_040
+    100094: Group_042
+    100096: Group_043
+    100098: Group_044
+    100100: Group_045
+    100102: Group_046
+    100104: Group_047
+    100106: Group_048
+    100108: Group_049
+    100110: Group_050
+    100112: Group_051
+    100114: Group_052
+    100116: Group_053
+    100118: Group_054
+    100120: Group_055
+    100122: Group_056
+    100124: Group_057
+    100126: Group_058
+    100128: Group_059
+    100130: Group_060
+    100132: Group_062
+    100134: Group_063
+    100136: Group_064
+    100138: Group_065
+    100140: Group_067
+    100142: Group_068
+    100144: Group_069
+    100146: Group_070
+    100148: Group_071
+    100150: Group_072
+    100152: Group_073
+    100154: Group_074
+    100156: Group_075
+    100158: Group_076
+    100160: Group_077
+    100162: Group_078
+    100164: Group_079
+    100166: Group_080
+    100168: Group_081
+    100170: Group_082
+    100172: Group_083
+    100174: Group_084
+    100176: Group_085
+    100178: Group_087
+    100180: Group_088
+    100182: Group_089
+    100184: Group_090
+    100186: Group_092
+    100188: Group_093
+    100190: Group_094
+    100192: Group_095
+    100194: Group_096
+    100196: Group_097
+    100198: Group_098
+    100200: Group_099
+    100202: Group_100
+    100204: Group_101
+    100206: Group_102
+    100208: Group_103
+    100210: Group_104
+    100212: Group_105
+    100214: Group_106
+    100216: Group_107
+    100218: Group_108
+    100220: Group_109
+    100222: Group_110
+    100224: Group_112
+    100226: Group_113
+    100228: Group_114
+    100230: Group_115
+    100232: Group_117
+    100234: Group_118
+    100236: Group_119
+    100238: Group_120
+    100240: Group_121
+    100242: Group_122
+    100244: Group_123
+    100246: Group_124
+    100248: Group_125
+    100250: Group_126
+    100252: Group_127
+    100254: Group_128
+    100256: Group_129
+    100258: Group_130
+    100260: Group_131
+    100262: Group_132
+    100264: Group_133
+    100266: Group_134
+    100268: Group_135
+    100270: Group_137
+    100272: Group_138
+    100274: Group_139
+    100276: Group_140
+    100278: Group_142
+    100280: Group_143
+    100282: Group_144
+    100284: Group_145
+    100286: Group_146
+    100288: Group_147
+    100290: Group_148
+    100292: Group_149
+    100294: Group_150
+    100296: Group_151
+    100298: Group_152
+    100300: Group_153
+    100302: Group_154
+    100304: Group_155
+    100306: Group_156
+    100308: Group_157
+    100310: Group_158
+    100312: Group_159
+    100314: Group_160
+    100316: Group_162
+    100318: Group_163
+    100320: Group_164
+    100322: Group_165
+    100324: Group_166
+    100326: Group_167
+    100328: Group_168
+    100330: Group_169
+    100332: Group_170
+    100334: Group_171
+    100336: Group_172
+    100338: Group_173
+    100340: Group_175
+    100342: Group_176
+    100344: Group_177
+    100346: Group_178
+    100348: Group_180
+    100350: Group_181
+    100352: Group_182
+    100354: Group_183
+    100356: Group_184
+    100358: Group_185
+    100360: Group_186
+    100362: Group_187
+    100364: Group_188
+    100366: Group_189
+    100368: Group_190
+    100370: Group_191
+    100372: Group_192
+    100374: Group_193
+    100376: Group_194
+    100378: Group_195
+    100380: Group_196
+    100382: Group_197
+    100384: Group_198
+    100386: Group_200
+    100388: Group_201
+    100390: Group_202
+    100392: Group_203
+    100394: Group_205
+    100396: Group_206
+    100398: Group_207
+    100400: Group_208
+    100402: Group_209
+    100404: Group_210
+    100406: Group_211
+    100408: Group_212
+    100410: Group_213
+    100412: Group_214
+    100414: Group_215
+    100416: Group_216
+    100418: Group_217
+    100420: Group_218
+    100422: Group_219
+    100424: Group_220
+    100426: Group_221
+    100428: Group_222
+    100430: Group_223
+    100432: Group_225
+    100434: Lathed F10
+    100436: Lathed F11
+    100438: Lathed F12
+    100440: Lathed F13
+    100442: Lathed F14
+    100444: Lathed F15
+    100446: Lathed F16
+    100448: Lathed F17
+    100450: Lathed F18
+    100452: Lathed F19
+    100454: Lathed F20
+    100456: Lathed F21
+    100458: Lathed F22
+    100460: Lathed F23
+    100462: Lathed F24
+    100464: Lathed F25
+    100466: Lathed Fo0
+    100468: Lathed Fo1
+    100470: Lathed Fo2
+    100472: Lathed Fo3
+    100474: Lathed Fo4
+    100476: Lathed Fo5
+    100478: Lathed Fo6
+    100480: Lathed Fo7
+    100482: Lathed Fo8
+    100484: Lathed Fo9
+    100486: Lathed For
+    100488: Layer0_001
+    100490: Layer0_003
+    100492: Layer0_005
+    100494: Layer0_007
+    100496: Layer0_009
+    100498: Layer0_011
+    100500: Layer0_013
+    100502: Layer0_015
+    100504: Layer0_017
+    400000: //RootNode
+    400002: '[Round]_00'
+    400004: '[Round]_01'
+    400006: '[Round]_02'
+    400008: '[Round]_03'
+    400010: '[Round]_04'
+    400012: '[Round]_05'
+    400014: '[Round]_06'
+    400016: '[Round]_07'
+    400018: '[Round]_08'
+    400020: Group_001
+    400022: Group_002
+    400024: Group_003
+    400026: Group_005
+    400028: Group_006
+    400030: Group_007
+    400032: Group_008
+    400034: Group_009
+    400036: Group_010
+    400038: Group_011
+    400040: Group_012
+    400042: Group_013
+    400044: Group_014
+    400046: Group_015
+    400048: Group_017
+    400050: Group_018
+    400052: Group_019
+    400054: Group_020
+    400056: Group_021
+    400058: Group_022
+    400060: Group_023
+    400062: Group_024
+    400064: Group_025
+    400066: Group_026
+    400068: Group_027
+    400070: Group_028
+    400072: Group_029
+    400074: Group_030
+    400076: Group_031
+    400078: Group_032
+    400080: Group_033
+    400082: Group_034
+    400084: Group_035
+    400086: Group_037
+    400088: Group_038
+    400090: Group_039
+    400092: Group_040
+    400094: Group_042
+    400096: Group_043
+    400098: Group_044
+    400100: Group_045
+    400102: Group_046
+    400104: Group_047
+    400106: Group_048
+    400108: Group_049
+    400110: Group_050
+    400112: Group_051
+    400114: Group_052
+    400116: Group_053
+    400118: Group_054
+    400120: Group_055
+    400122: Group_056
+    400124: Group_057
+    400126: Group_058
+    400128: Group_059
+    400130: Group_060
+    400132: Group_062
+    400134: Group_063
+    400136: Group_064
+    400138: Group_065
+    400140: Group_067
+    400142: Group_068
+    400144: Group_069
+    400146: Group_070
+    400148: Group_071
+    400150: Group_072
+    400152: Group_073
+    400154: Group_074
+    400156: Group_075
+    400158: Group_076
+    400160: Group_077
+    400162: Group_078
+    400164: Group_079
+    400166: Group_080
+    400168: Group_081
+    400170: Group_082
+    400172: Group_083
+    400174: Group_084
+    400176: Group_085
+    400178: Group_087
+    400180: Group_088
+    400182: Group_089
+    400184: Group_090
+    400186: Group_092
+    400188: Group_093
+    400190: Group_094
+    400192: Group_095
+    400194: Group_096
+    400196: Group_097
+    400198: Group_098
+    400200: Group_099
+    400202: Group_100
+    400204: Group_101
+    400206: Group_102
+    400208: Group_103
+    400210: Group_104
+    400212: Group_105
+    400214: Group_106
+    400216: Group_107
+    400218: Group_108
+    400220: Group_109
+    400222: Group_110
+    400224: Group_112
+    400226: Group_113
+    400228: Group_114
+    400230: Group_115
+    400232: Group_117
+    400234: Group_118
+    400236: Group_119
+    400238: Group_120
+    400240: Group_121
+    400242: Group_122
+    400244: Group_123
+    400246: Group_124
+    400248: Group_125
+    400250: Group_126
+    400252: Group_127
+    400254: Group_128
+    400256: Group_129
+    400258: Group_130
+    400260: Group_131
+    400262: Group_132
+    400264: Group_133
+    400266: Group_134
+    400268: Group_135
+    400270: Group_137
+    400272: Group_138
+    400274: Group_139
+    400276: Group_140
+    400278: Group_142
+    400280: Group_143
+    400282: Group_144
+    400284: Group_145
+    400286: Group_146
+    400288: Group_147
+    400290: Group_148
+    400292: Group_149
+    400294: Group_150
+    400296: Group_151
+    400298: Group_152
+    400300: Group_153
+    400302: Group_154
+    400304: Group_155
+    400306: Group_156
+    400308: Group_157
+    400310: Group_158
+    400312: Group_159
+    400314: Group_160
+    400316: Group_162
+    400318: Group_163
+    400320: Group_164
+    400322: Group_165
+    400324: Group_166
+    400326: Group_167
+    400328: Group_168
+    400330: Group_169
+    400332: Group_170
+    400334: Group_171
+    400336: Group_172
+    400338: Group_173
+    400340: Group_175
+    400342: Group_176
+    400344: Group_177
+    400346: Group_178
+    400348: Group_180
+    400350: Group_181
+    400352: Group_182
+    400354: Group_183
+    400356: Group_184
+    400358: Group_185
+    400360: Group_186
+    400362: Group_187
+    400364: Group_188
+    400366: Group_189
+    400368: Group_190
+    400370: Group_191
+    400372: Group_192
+    400374: Group_193
+    400376: Group_194
+    400378: Group_195
+    400380: Group_196
+    400382: Group_197
+    400384: Group_198
+    400386: Group_200
+    400388: Group_201
+    400390: Group_202
+    400392: Group_203
+    400394: Group_205
+    400396: Group_206
+    400398: Group_207
+    400400: Group_208
+    400402: Group_209
+    400404: Group_210
+    400406: Group_211
+    400408: Group_212
+    400410: Group_213
+    400412: Group_214
+    400414: Group_215
+    400416: Group_216
+    400418: Group_217
+    400420: Group_218
+    400422: Group_219
+    400424: Group_220
+    400426: Group_221
+    400428: Group_222
+    400430: Group_223
+    400432: Group_225
+    400434: Lathed F10
+    400436: Lathed F11
+    400438: Lathed F12
+    400440: Lathed F13
+    400442: Lathed F14
+    400444: Lathed F15
+    400446: Lathed F16
+    400448: Lathed F17
+    400450: Lathed F18
+    400452: Lathed F19
+    400454: Lathed F20
+    400456: Lathed F21
+    400458: Lathed F22
+    400460: Lathed F23
+    400462: Lathed F24
+    400464: Lathed F25
+    400466: Lathed Fo0
+    400468: Lathed Fo1
+    400470: Lathed Fo2
+    400472: Lathed Fo3
+    400474: Lathed Fo4
+    400476: Lathed Fo5
+    400478: Lathed Fo6
+    400480: Lathed Fo7
+    400482: Lathed Fo8
+    400484: Lathed Fo9
+    400486: Lathed For
+    400488: Layer0_001
+    400490: Layer0_003
+    400492: Layer0_005
+    400494: Layer0_007
+    400496: Layer0_009
+    400498: Layer0_011
+    400500: Layer0_013
+    400502: Layer0_015
+    400504: Layer0_017
+    2300000: '[Round]_00'
+    2300002: '[Round]_01'
+    2300004: '[Round]_02'
+    2300006: '[Round]_03'
+    2300008: '[Round]_04'
+    2300010: '[Round]_05'
+    2300012: '[Round]_06'
+    2300014: '[Round]_07'
+    2300016: '[Round]_08'
+    2300018: Group_001
+    2300020: Group_002
+    2300022: Group_003
+    2300024: Group_005
+    2300026: Group_006
+    2300028: Group_007
+    2300030: Group_008
+    2300032: Group_009
+    2300034: Group_010
+    2300036: Group_011
+    2300038: Group_012
+    2300040: Group_013
+    2300042: Group_014
+    2300044: Group_015
+    2300046: Group_017
+    2300048: Group_018
+    2300050: Group_019
+    2300052: Group_020
+    2300054: Group_021
+    2300056: Group_022
+    2300058: Group_023
+    2300060: Group_024
+    2300062: Group_025
+    2300064: Group_026
+    2300066: Group_027
+    2300068: Group_028
+    2300070: Group_029
+    2300072: Group_030
+    2300074: Group_031
+    2300076: Group_032
+    2300078: Group_033
+    2300080: Group_034
+    2300082: Group_035
+    2300084: Group_037
+    2300086: Group_038
+    2300088: Group_039
+    2300090: Group_040
+    2300092: Group_042
+    2300094: Group_043
+    2300096: Group_044
+    2300098: Group_045
+    2300100: Group_046
+    2300102: Group_047
+    2300104: Group_048
+    2300106: Group_049
+    2300108: Group_050
+    2300110: Group_051
+    2300112: Group_052
+    2300114: Group_053
+    2300116: Group_054
+    2300118: Group_055
+    2300120: Group_056
+    2300122: Group_057
+    2300124: Group_058
+    2300126: Group_059
+    2300128: Group_060
+    2300130: Group_062
+    2300132: Group_063
+    2300134: Group_064
+    2300136: Group_065
+    2300138: Group_067
+    2300140: Group_068
+    2300142: Group_069
+    2300144: Group_070
+    2300146: Group_071
+    2300148: Group_072
+    2300150: Group_073
+    2300152: Group_074
+    2300154: Group_075
+    2300156: Group_076
+    2300158: Group_077
+    2300160: Group_078
+    2300162: Group_079
+    2300164: Group_080
+    2300166: Group_081
+    2300168: Group_082
+    2300170: Group_083
+    2300172: Group_084
+    2300174: Group_085
+    2300176: Group_087
+    2300178: Group_088
+    2300180: Group_089
+    2300182: Group_090
+    2300184: Group_092
+    2300186: Group_093
+    2300188: Group_094
+    2300190: Group_095
+    2300192: Group_096
+    2300194: Group_097
+    2300196: Group_098
+    2300198: Group_099
+    2300200: Group_100
+    2300202: Group_101
+    2300204: Group_102
+    2300206: Group_103
+    2300208: Group_104
+    2300210: Group_105
+    2300212: Group_106
+    2300214: Group_107
+    2300216: Group_108
+    2300218: Group_109
+    2300220: Group_110
+    2300222: Group_112
+    2300224: Group_113
+    2300226: Group_114
+    2300228: Group_115
+    2300230: Group_117
+    2300232: Group_118
+    2300234: Group_119
+    2300236: Group_120
+    2300238: Group_121
+    2300240: Group_122
+    2300242: Group_123
+    2300244: Group_124
+    2300246: Group_125
+    2300248: Group_126
+    2300250: Group_127
+    2300252: Group_128
+    2300254: Group_129
+    2300256: Group_130
+    2300258: Group_131
+    2300260: Group_132
+    2300262: Group_133
+    2300264: Group_134
+    2300266: Group_135
+    2300268: Group_137
+    2300270: Group_138
+    2300272: Group_139
+    2300274: Group_140
+    2300276: Group_142
+    2300278: Group_143
+    2300280: Group_144
+    2300282: Group_145
+    2300284: Group_146
+    2300286: Group_147
+    2300288: Group_148
+    2300290: Group_149
+    2300292: Group_150
+    2300294: Group_151
+    2300296: Group_152
+    2300298: Group_153
+    2300300: Group_154
+    2300302: Group_155
+    2300304: Group_156
+    2300306: Group_157
+    2300308: Group_158
+    2300310: Group_159
+    2300312: Group_160
+    2300314: Group_162
+    2300316: Group_163
+    2300318: Group_164
+    2300320: Group_165
+    2300322: Group_166
+    2300324: Group_167
+    2300326: Group_168
+    2300328: Group_169
+    2300330: Group_170
+    2300332: Group_171
+    2300334: Group_172
+    2300336: Group_173
+    2300338: Group_175
+    2300340: Group_176
+    2300342: Group_177
+    2300344: Group_178
+    2300346: Group_180
+    2300348: Group_181
+    2300350: Group_182
+    2300352: Group_183
+    2300354: Group_184
+    2300356: Group_185
+    2300358: Group_186
+    2300360: Group_187
+    2300362: Group_188
+    2300364: Group_189
+    2300366: Group_190
+    2300368: Group_191
+    2300370: Group_192
+    2300372: Group_193
+    2300374: Group_194
+    2300376: Group_195
+    2300378: Group_196
+    2300380: Group_197
+    2300382: Group_198
+    2300384: Group_200
+    2300386: Group_201
+    2300388: Group_202
+    2300390: Group_203
+    2300392: Group_205
+    2300394: Group_206
+    2300396: Group_207
+    2300398: Group_208
+    2300400: Group_209
+    2300402: Group_210
+    2300404: Group_211
+    2300406: Group_212
+    2300408: Group_213
+    2300410: Group_214
+    2300412: Group_215
+    2300414: Group_216
+    2300416: Group_217
+    2300418: Group_218
+    2300420: Group_219
+    2300422: Group_220
+    2300424: Group_221
+    2300426: Group_222
+    2300428: Group_223
+    2300430: Group_225
+    2300432: Lathed F10
+    2300434: Lathed F11
+    2300436: Lathed F12
+    2300438: Lathed F13
+    2300440: Lathed F14
+    2300442: Lathed F15
+    2300444: Lathed F16
+    2300446: Lathed F17
+    2300448: Lathed F18
+    2300450: Lathed F19
+    2300452: Lathed F20
+    2300454: Lathed F21
+    2300456: Lathed F22
+    2300458: Lathed F23
+    2300460: Lathed F24
+    2300462: Lathed F25
+    2300464: Lathed Fo0
+    2300466: Lathed Fo1
+    2300468: Lathed Fo2
+    2300470: Lathed Fo3
+    2300472: Lathed Fo4
+    2300474: Lathed Fo5
+    2300476: Lathed Fo6
+    2300478: Lathed Fo7
+    2300480: Lathed Fo8
+    2300482: Lathed Fo9
+    2300484: Lathed For
+    2300486: Layer0_001
+    2300488: Layer0_003
+    2300490: Layer0_005
+    2300492: Layer0_007
+    2300494: Layer0_009
+    2300496: Layer0_011
+    2300498: Layer0_013
+    2300500: Layer0_015
+    2300502: Layer0_017
+    3300000: '[Round]_00'
+    3300002: '[Round]_01'
+    3300004: '[Round]_02'
+    3300006: '[Round]_03'
+    3300008: '[Round]_04'
+    3300010: '[Round]_05'
+    3300012: '[Round]_06'
+    3300014: '[Round]_07'
+    3300016: '[Round]_08'
+    3300018: Group_001
+    3300020: Group_002
+    3300022: Group_003
+    3300024: Group_005
+    3300026: Group_006
+    3300028: Group_007
+    3300030: Group_008
+    3300032: Group_009
+    3300034: Group_010
+    3300036: Group_011
+    3300038: Group_012
+    3300040: Group_013
+    3300042: Group_014
+    3300044: Group_015
+    3300046: Group_017
+    3300048: Group_018
+    3300050: Group_019
+    3300052: Group_020
+    3300054: Group_021
+    3300056: Group_022
+    3300058: Group_023
+    3300060: Group_024
+    3300062: Group_025
+    3300064: Group_026
+    3300066: Group_027
+    3300068: Group_028
+    3300070: Group_029
+    3300072: Group_030
+    3300074: Group_031
+    3300076: Group_032
+    3300078: Group_033
+    3300080: Group_034
+    3300082: Group_035
+    3300084: Group_037
+    3300086: Group_038
+    3300088: Group_039
+    3300090: Group_040
+    3300092: Group_042
+    3300094: Group_043
+    3300096: Group_044
+    3300098: Group_045
+    3300100: Group_046
+    3300102: Group_047
+    3300104: Group_048
+    3300106: Group_049
+    3300108: Group_050
+    3300110: Group_051
+    3300112: Group_052
+    3300114: Group_053
+    3300116: Group_054
+    3300118: Group_055
+    3300120: Group_056
+    3300122: Group_057
+    3300124: Group_058
+    3300126: Group_059
+    3300128: Group_060
+    3300130: Group_062
+    3300132: Group_063
+    3300134: Group_064
+    3300136: Group_065
+    3300138: Group_067
+    3300140: Group_068
+    3300142: Group_069
+    3300144: Group_070
+    3300146: Group_071
+    3300148: Group_072
+    3300150: Group_073
+    3300152: Group_074
+    3300154: Group_075
+    3300156: Group_076
+    3300158: Group_077
+    3300160: Group_078
+    3300162: Group_079
+    3300164: Group_080
+    3300166: Group_081
+    3300168: Group_082
+    3300170: Group_083
+    3300172: Group_084
+    3300174: Group_085
+    3300176: Group_087
+    3300178: Group_088
+    3300180: Group_089
+    3300182: Group_090
+    3300184: Group_092
+    3300186: Group_093
+    3300188: Group_094
+    3300190: Group_095
+    3300192: Group_096
+    3300194: Group_097
+    3300196: Group_098
+    3300198: Group_099
+    3300200: Group_100
+    3300202: Group_101
+    3300204: Group_102
+    3300206: Group_103
+    3300208: Group_104
+    3300210: Group_105
+    3300212: Group_106
+    3300214: Group_107
+    3300216: Group_108
+    3300218: Group_109
+    3300220: Group_110
+    3300222: Group_112
+    3300224: Group_113
+    3300226: Group_114
+    3300228: Group_115
+    3300230: Group_117
+    3300232: Group_118
+    3300234: Group_119
+    3300236: Group_120
+    3300238: Group_121
+    3300240: Group_122
+    3300242: Group_123
+    3300244: Group_124
+    3300246: Group_125
+    3300248: Group_126
+    3300250: Group_127
+    3300252: Group_128
+    3300254: Group_129
+    3300256: Group_130
+    3300258: Group_131
+    3300260: Group_132
+    3300262: Group_133
+    3300264: Group_134
+    3300266: Group_135
+    3300268: Group_137
+    3300270: Group_138
+    3300272: Group_139
+    3300274: Group_140
+    3300276: Group_142
+    3300278: Group_143
+    3300280: Group_144
+    3300282: Group_145
+    3300284: Group_146
+    3300286: Group_147
+    3300288: Group_148
+    3300290: Group_149
+    3300292: Group_150
+    3300294: Group_151
+    3300296: Group_152
+    3300298: Group_153
+    3300300: Group_154
+    3300302: Group_155
+    3300304: Group_156
+    3300306: Group_157
+    3300308: Group_158
+    3300310: Group_159
+    3300312: Group_160
+    3300314: Group_162
+    3300316: Group_163
+    3300318: Group_164
+    3300320: Group_165
+    3300322: Group_166
+    3300324: Group_167
+    3300326: Group_168
+    3300328: Group_169
+    3300330: Group_170
+    3300332: Group_171
+    3300334: Group_172
+    3300336: Group_173
+    3300338: Group_175
+    3300340: Group_176
+    3300342: Group_177
+    3300344: Group_178
+    3300346: Group_180
+    3300348: Group_181
+    3300350: Group_182
+    3300352: Group_183
+    3300354: Group_184
+    3300356: Group_185
+    3300358: Group_186
+    3300360: Group_187
+    3300362: Group_188
+    3300364: Group_189
+    3300366: Group_190
+    3300368: Group_191
+    3300370: Group_192
+    3300372: Group_193
+    3300374: Group_194
+    3300376: Group_195
+    3300378: Group_196
+    3300380: Group_197
+    3300382: Group_198
+    3300384: Group_200
+    3300386: Group_201
+    3300388: Group_202
+    3300390: Group_203
+    3300392: Group_205
+    3300394: Group_206
+    3300396: Group_207
+    3300398: Group_208
+    3300400: Group_209
+    3300402: Group_210
+    3300404: Group_211
+    3300406: Group_212
+    3300408: Group_213
+    3300410: Group_214
+    3300412: Group_215
+    3300414: Group_216
+    3300416: Group_217
+    3300418: Group_218
+    3300420: Group_219
+    3300422: Group_220
+    3300424: Group_221
+    3300426: Group_222
+    3300428: Group_223
+    3300430: Group_225
+    3300432: Lathed F10
+    3300434: Lathed F11
+    3300436: Lathed F12
+    3300438: Lathed F13
+    3300440: Lathed F14
+    3300442: Lathed F15
+    3300444: Lathed F16
+    3300446: Lathed F17
+    3300448: Lathed F18
+    3300450: Lathed F19
+    3300452: Lathed F20
+    3300454: Lathed F21
+    3300456: Lathed F22
+    3300458: Lathed F23
+    3300460: Lathed F24
+    3300462: Lathed F25
+    3300464: Lathed Fo0
+    3300466: Lathed Fo1
+    3300468: Lathed Fo2
+    3300470: Lathed Fo3
+    3300472: Lathed Fo4
+    3300474: Lathed Fo5
+    3300476: Lathed Fo6
+    3300478: Lathed Fo7
+    3300480: Lathed Fo8
+    3300482: Lathed Fo9
+    3300484: Lathed For
+    3300486: Layer0_001
+    3300488: Layer0_003
+    3300490: Layer0_005
+    3300492: Layer0_007
+    3300494: Layer0_009
+    3300496: Layer0_011
+    3300498: Layer0_013
+    3300500: Layer0_015
+    3300502: Layer0_017
+    4300000: '[Round]_00'
+    4300002: Group_225
+    4300004: Group_223
+    4300006: Group_222
+    4300008: Group_221
+    4300010: Group_220
+    4300012: Group_219
+    4300014: Group_218
+    4300016: Group_217
+    4300018: Group_216
+    4300020: Group_215
+    4300022: Group_214
+    4300024: Group_213
+    4300026: Group_212
+    4300028: Group_211
+    4300030: Group_210
+    4300032: Group_209
+    4300034: Group_208
+    4300036: Group_207
+    4300038: Group_206
+    4300040: Group_205
+    4300042: Lathed For
+    4300044: Group_203
+    4300046: Group_202
+    4300048: Group_201
+    4300050: Lathed Fo0
+    4300052: Lathed Fo1
+    4300054: Layer0_017
+    4300056: '[Round]_01'
+    4300058: Group_200
+    4300060: Group_198
+    4300062: Group_197
+    4300064: Group_196
+    4300066: Group_195
+    4300068: Group_194
+    4300070: Group_193
+    4300072: Group_192
+    4300074: Group_191
+    4300076: Group_190
+    4300078: Group_189
+    4300080: Group_188
+    4300082: Group_187
+    4300084: Group_186
+    4300086: Group_185
+    4300088: Group_184
+    4300090: Group_183
+    4300092: Group_182
+    4300094: Group_181
+    4300096: Group_180
+    4300098: Lathed Fo2
+    4300100: Group_178
+    4300102: Group_177
+    4300104: Group_176
+    4300106: Lathed Fo3
+    4300108: Lathed Fo4
+    4300110: Layer0_015
+    4300112: '[Round]_02'
+    4300114: Group_175
+    4300116: Group_173
+    4300118: Group_172
+    4300120: Group_171
+    4300122: Group_170
+    4300124: Group_169
+    4300126: Group_168
+    4300128: Group_167
+    4300130: Group_166
+    4300132: Group_165
+    4300134: Group_164
+    4300136: Group_163
+    4300138: '[Round]_03'
+    4300140: Group_162
+    4300142: Group_160
+    4300144: Group_159
+    4300146: Group_158
+    4300148: Group_157
+    4300150: Group_156
+    4300152: Group_155
+    4300154: Group_154
+    4300156: Group_153
+    4300158: Group_152
+    4300160: Group_151
+    4300162: Group_150
+    4300164: Group_149
+    4300166: Group_148
+    4300168: Group_147
+    4300170: Group_146
+    4300172: Group_145
+    4300174: Group_144
+    4300176: Group_143
+    4300178: Group_142
+    4300180: Lathed Fo5
+    4300182: Group_140
+    4300184: Group_139
+    4300186: Group_138
+    4300188: Lathed Fo6
+    4300190: Lathed Fo7
+    4300192: Layer0_013
+    4300194: '[Round]_04'
+    4300196: Group_137
+    4300198: Group_135
+    4300200: Group_134
+    4300202: Group_133
+    4300204: Group_132
+    4300206: Group_131
+    4300208: Group_130
+    4300210: Group_129
+    4300212: Group_128
+    4300214: Group_127
+    4300216: Group_126
+    4300218: Group_125
+    4300220: Group_124
+    4300222: Group_123
+    4300224: Group_122
+    4300226: Group_121
+    4300228: Group_120
+    4300230: Group_119
+    4300232: Group_118
+    4300234: Group_117
+    4300236: Lathed Fo8
+    4300238: Group_115
+    4300240: Group_114
+    4300242: Group_113
+    4300244: Lathed Fo9
+    4300246: Lathed F10
+    4300248: Layer0_011
+    4300250: '[Round]_05'
+    4300252: Group_112
+    4300254: Group_110
+    4300256: Group_109
+    4300258: Group_108
+    4300260: Group_107
+    4300262: Group_106
+    4300264: Group_105
+    4300266: Group_104
+    4300268: Group_103
+    4300270: Group_102
+    4300272: Group_101
+    4300274: Group_100
+    4300276: Group_099
+    4300278: Group_098
+    4300280: Group_097
+    4300282: Group_096
+    4300284: Group_095
+    4300286: Group_094
+    4300288: Group_093
+    4300290: Group_092
+    4300292: Lathed F11
+    4300294: Group_090
+    4300296: Group_089
+    4300298: Group_088
+    4300300: Lathed F12
+    4300302: Lathed F13
+    4300304: Layer0_009
+    4300306: '[Round]_06'
+    4300308: Group_087
+    4300310: Group_085
+    4300312: Group_084
+    4300314: Group_083
+    4300316: Group_082
+    4300318: Group_081
+    4300320: Group_080
+    4300322: Group_079
+    4300324: Group_078
+    4300326: Group_077
+    4300328: Group_076
+    4300330: Group_075
+    4300332: Group_074
+    4300334: Group_073
+    4300336: Group_072
+    4300338: Group_071
+    4300340: Group_070
+    4300342: Group_069
+    4300344: Group_068
+    4300346: Group_067
+    4300348: Lathed F14
+    4300350: Group_065
+    4300352: Group_064
+    4300354: Group_063
+    4300356: Lathed F15
+    4300358: Lathed F16
+    4300360: Layer0_007
+    4300362: '[Round]_07'
+    4300364: Group_062
+    4300366: Group_060
+    4300368: Group_059
+    4300370: Group_058
+    4300372: Group_057
+    4300374: Group_056
+    4300376: Group_055
+    4300378: Group_054
+    4300380: Group_053
+    4300382: Group_052
+    4300384: Group_051
+    4300386: Group_050
+    4300388: Group_049
+    4300390: Group_048
+    4300392: Group_047
+    4300394: Group_046
+    4300396: Group_045
+    4300398: Group_044
+    4300400: Group_043
+    4300402: Group_042
+    4300404: Lathed F17
+    4300406: Group_040
+    4300408: Group_039
+    4300410: Group_038
+    4300412: Lathed F18
+    4300414: Lathed F19
+    4300416: Layer0_005
+    4300418: '[Round]_08'
+    4300420: Group_037
+    4300422: Group_035
+    4300424: Group_034
+    4300426: Group_033
+    4300428: Group_032
+    4300430: Group_031
+    4300432: Group_030
+    4300434: Group_029
+    4300436: Group_028
+    4300438: Group_027
+    4300440: Group_026
+    4300442: Group_025
+    4300444: Group_024
+    4300446: Group_023
+    4300448: Group_022
+    4300450: Group_021
+    4300452: Group_020
+    4300454: Group_019
+    4300456: Group_018
+    4300458: Group_017
+    4300460: Lathed F20
+    4300462: Group_015
+    4300464: Group_014
+    4300466: Group_013
+    4300468: Lathed F21
+    4300470: Lathed F22
+    4300472: Layer0_003
+    4300474: Group_012
+    4300476: Group_011
+    4300478: Group_010
+    4300480: Group_009
+    4300482: Group_008
+    4300484: Group_007
+    4300486: Group_006
+    4300488: Group_005
+    4300490: Lathed F23
+    4300492: Group_003
+    4300494: Group_002
+    4300496: Group_001
+    4300498: Lathed F24
+    4300500: Lathed F25
+    4300502: Layer0_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

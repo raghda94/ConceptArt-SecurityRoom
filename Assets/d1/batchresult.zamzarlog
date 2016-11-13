@@ -1,0 +1,24 @@
+
+C:\windows\system32>D:
+
+D:\>cd D:\uploadedFiles\c91b28627cf9d123f123b5764cffde67-50fa14625d5ab6c3\ 
+
+D:\uploadedFiles\c91b28627cf9d123f123b5764cffde67-50fa14625d5ab6c3>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\c91b28627cf9d123f123b5764cffde67-50fa14625d5ab6c3\p1b1esrqt9fcaff041h3nl4cr4.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b1esrqt9fcaff041h3nl4cr4.rar
+
+  extracting: Drawer.JPG                                          OK
+  extracting: Drawer.lxo                                          OK
+  extracting: Drawer.mtl                                          OK
+  extracting: Drawer.obj                                          OK
+  extracting: Furniture copy.jpg                                  OK
+  extracting: Drawer.fbx                                          OK
+
+D:\uploadedFiles\c91b28627cf9d123f123b5764cffde67-50fa14625d5ab6c3>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\c91b28627cf9d123f123b5764cffde67-50fa14625d5ab6c3\p1b1esrqt9fcaff041h3nl4cr4.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://ww

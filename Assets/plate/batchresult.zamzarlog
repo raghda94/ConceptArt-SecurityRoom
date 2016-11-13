@@ -1,0 +1,23 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\54e2f46e2ece3b15ee2ac22d0e1cc-4d3dafa069e553e0>cd D:\uploadedFiles\36b3f04cce1b1ab05e9ba94978c03a-774621e3592e632\ 
+
+D:\uploadedFiles\36b3f04cce1b1ab05e9ba94978c03a-774621e3592e632>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\36b3f04cce1b1ab05e9ba94978c03a-774621e3592e632\p1b1d180ub1sj11uh7cj9f9912nu4.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b1d180ub1sj11uh7cj9f9912nu4.rar
+
+  extracting: Untitled.png                                        OK
+  extracting: better.png                                          OK
+  extracting: squared dishes.png                                  OK
+  extracting: squared dishset.c4d                                 OK
+  extracting: squared dishset.obj                                 OK
+
+D:\uploadedFiles\36b3f04cce1b1ab05e9ba94978c03a-774621e3592e632>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\36b3f04cce1b1ab05e9ba94978c03a-774621e3592e632\p1b1d180ub1sj11uh7cj9f9912nu4.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://ww
