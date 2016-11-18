@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Materials\collider.cs" />
+     <Compile Include="Assets\character.cs" />
      <None Include="Assets\carpet\archibase.net.txt" />
      <None Include="Assets\clock\Readme.txt" />
  <Reference Include="UnityEngine.Networking">
