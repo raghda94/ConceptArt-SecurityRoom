@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Materials\collider.cs" />
      <None Include="Assets\carpet\archibase.net.txt" />
+     <None Include="Assets\Office Desk\PDM.txt" />
      <None Include="Assets\clock\Readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

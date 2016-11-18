@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: b11e88fbefb414bf4822a379b0f3484e
+timeCreated: 1479473397
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' sdg fghd0'
+    100002: ' sdg fghd1'
+    100004: ' sdg fghd2'
+    100006: ' sdg fghd3'
+    100008: ' sdg fghd4'
+    100010: ' sdg fghd5'
+    100012: ' sdg fghd6'
+    100014: ' sdg fghdf'
+    100016: Component#
+    100018: Component0
+    100020: Component1
+    100022: Component2
+    100024: Component3
+    100026: Component4
+    100028: Component5
+    100030: Component6
+    100032: Component7
+    100034: ex03_001
+    100036: F RENDER D
+    100038: Group_001
+    100040: Group_002
+    100042: //RootNode
+    400000: ' sdg fghd0'
+    400002: ' sdg fghd1'
+    400004: ' sdg fghd2'
+    400006: ' sdg fghd3'
+    400008: ' sdg fghd4'
+    400010: ' sdg fghd5'
+    400012: ' sdg fghd6'
+    400014: ' sdg fghdf'
+    400016: Component#
+    400018: Component0
+    400020: Component1
+    400022: Component2
+    400024: Component3
+    400026: Component4
+    400028: Component5
+    400030: Component6
+    400032: Component7
+    400034: ex03_001
+    400036: F RENDER D
+    400038: Group_001
+    400040: Group_002
+    400042: //RootNode
+    2300000: ' sdg fghd0'
+    2300002: ' sdg fghd1'
+    2300004: ' sdg fghd2'
+    2300006: ' sdg fghd3'
+    2300008: ' sdg fghd4'
+    2300010: ' sdg fghd5'
+    2300012: ' sdg fghd6'
+    2300014: ' sdg fghdf'
+    2300016: Component#
+    2300018: Component0
+    2300020: Component1
+    2300022: Component2
+    2300024: Component3
+    2300026: Component4
+    2300028: Component5
+    2300030: Component6
+    2300032: Component7
+    2300034: ex03_001
+    2300036: F RENDER D
+    2300038: Group_001
+    2300040: Group_002
+    3300000: ' sdg fghd0'
+    3300002: ' sdg fghd1'
+    3300004: ' sdg fghd2'
+    3300006: ' sdg fghd3'
+    3300008: ' sdg fghd4'
+    3300010: ' sdg fghd5'
+    3300012: ' sdg fghd6'
+    3300014: ' sdg fghdf'
+    3300016: Component#
+    3300018: Component0
+    3300020: Component1
+    3300022: Component2
+    3300024: Component3
+    3300026: Component4
+    3300028: Component5
+    3300030: Component6
+    3300032: Component7
+    3300034: ex03_001
+    3300036: F RENDER D
+    3300038: Group_001
+    3300040: Group_002
+    4300000: F RENDER D
+    4300002: Component#
+    4300004: Component0
+    4300006: Component1
+    4300008: Component2
+    4300010: Group_002
+    4300012: Component6
+    4300014: ' sdg fghdf'
+    4300016: ex03_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
