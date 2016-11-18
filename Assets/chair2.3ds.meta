@@ -76,6 +76,20 @@ ModelImporter:
     4300020: ArmchairL0
     4300022: ArmchairL1
     4300024: ArmchairL2
+    6400000: ArmchairA0
+    6400002: ArmchairAr
+    6400004: ArmchairB0
+    6400006: ArmchairB1
+    6400008: ArmchairBa
+    6400010: ArmchairL0
+    6400012: ArmchairL1
+    6400014: ArmchairL2
+    6400016: ArmchairLe
+    6400018: ArmchairS0
+    6400020: ArmchairSe
+    6400022: ArmchairSi
+    6400024: ArmshairS0
+    6400026: ArmshairSi
   materials:
     importMaterials: 1
     materialName: 0
@@ -83,7 +97,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -102,7 +116,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

@@ -212,6 +212,47 @@ ModelImporter:
     4300076: ChamferB13
     4300078: Cylinder14
     4300080: ChamferB14
+    6400000: Box001
+    6400002: Box002
+    6400004: Box003
+    6400006: Box005
+    6400008: ChamferB10
+    6400010: ChamferB11
+    6400012: ChamferB12
+    6400014: ChamferB13
+    6400016: ChamferB14
+    6400018: ChamferBo0
+    6400020: ChamferBo1
+    6400022: ChamferBo2
+    6400024: ChamferBo3
+    6400026: ChamferBo4
+    6400028: ChamferBo5
+    6400030: ChamferBo6
+    6400032: ChamferBo7
+    6400034: ChamferBo8
+    6400036: ChamferBo9
+    6400038: ChamferBox
+    6400040: Cylinder00
+    6400042: Cylinder01
+    6400044: Cylinder02
+    6400046: Cylinder03
+    6400048: Cylinder04
+    6400050: Cylinder05
+    6400052: Cylinder06
+    6400054: Cylinder07
+    6400056: Cylinder08
+    6400058: Cylinder09
+    6400060: Cylinder10
+    6400062: Cylinder11
+    6400064: Cylinder12
+    6400066: Cylinder13
+    6400068: Cylinder14
+    6400070: Sphere007
+    6400072: Sphere008
+    6400074: Sphere009
+    6400076: Sphere010
+    6400078: Sphere011
+    6400080: Sphere012
   materials:
     importMaterials: 1
     materialName: 0
@@ -238,7 +279,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

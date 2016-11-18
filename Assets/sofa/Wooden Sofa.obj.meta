@@ -72,6 +72,19 @@ ModelImporter:
     4300020: Stand
     4300022: Top_
     4300024: Upper_Back_Support
+    6400000: back_Support
+    6400002: Front_Sp
+    6400004: Front_Support_1
+    6400006: Front_Support_2
+    6400008: Handle
+    6400010: Handle_Support
+    6400012: Lower_Back_Support
+    6400014: Side_Support
+    6400016: Sit
+    6400018: Sit_Support
+    6400020: Stand
+    6400022: Top_
+    6400024: Upper_Back_Support
   materials:
     importMaterials: 1
     materialName: 0
@@ -79,7 +92,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -98,7 +111,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
