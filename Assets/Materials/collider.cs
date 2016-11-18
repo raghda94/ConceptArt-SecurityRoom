@@ -34,4 +34,7 @@ public class collider : MonoBehaviour {
 		moveDirection.y -= gravity * Time.deltaTime;
 		controller.Move(moveDirection * Time.deltaTime);
 	}
+	void OnTriggerEnter(Collider other) {
+		print (other.gameObject.name);
+	}
 }

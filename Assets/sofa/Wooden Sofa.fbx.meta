@@ -87,6 +87,20 @@ ModelImporter:
     4300022: Front Support 2
     4300024: Front Support 1
     4300026: Stand
+    6400000: Back Support
+    6400002: back Support
+    6400004: Front Sp
+    6400006: Front Support 1
+    6400008: Front Support 2
+    6400010: Handle
+    6400012: Handle Support
+    6400014: Lower Back Support
+    6400016: Side Support
+    6400018: Sit
+    6400020: Sit Support
+    6400022: Stand
+    6400024: 'Top '
+    6400026: Upper Back Support
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -95,7 +109,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -114,7 +128,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

@@ -12,6 +12,7 @@ ModelImporter:
     2300000: Default
     3300000: Default
     4300000: Default
+    6400000: Default
   materials:
     importMaterials: 1
     materialName: 0
@@ -19,7 +20,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -38,7 +39,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
